@@ -1,0 +1,2 @@
+Santiago,8.0
+Alberto,2.0
